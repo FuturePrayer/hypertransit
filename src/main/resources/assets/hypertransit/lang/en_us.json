@@ -1,0 +1,20 @@
+{
+  "item.hypertransit.iron_boat": "Iron Boat",
+  "item.hypertransit.copper_boat": "Copper Boat",
+  "item.hypertransit.gold_boat": "Gold Boat",
+  "item.hypertransit.diamond_boat": "Diamond Boat",
+  "item.hypertransit.netherite_boat": "Netherite Boat",
+  "item.hypertransit.copper_minecart": "Copper Minecart",
+  "item.hypertransit.gold_minecart": "Gold Minecart",
+  "item.hypertransit.diamond_minecart": "Diamond Minecart",
+  "item.hypertransit.netherite_minecart": "Netherite Minecart",
+  "entity.hypertransit.iron_boat": "Iron Boat",
+  "entity.hypertransit.copper_boat": "Copper Boat",
+  "entity.hypertransit.gold_boat": "Gold Boat",
+  "entity.hypertransit.diamond_boat": "Diamond Boat",
+  "entity.hypertransit.netherite_boat": "Netherite Boat",
+  "entity.hypertransit.copper_minecart": "Copper Minecart",
+  "entity.hypertransit.gold_minecart": "Gold Minecart",
+  "entity.hypertransit.diamond_minecart": "Diamond Minecart",
+  "entity.hypertransit.netherite_minecart": "Netherite Minecart"
+}

@@ -1,0 +1,20 @@
+{
+  "item.hypertransit.iron_boat": "铁船",
+  "item.hypertransit.copper_boat": "铜船",
+  "item.hypertransit.gold_boat": "金船",
+  "item.hypertransit.diamond_boat": "钻石船",
+  "item.hypertransit.netherite_boat": "下界合金船",
+  "item.hypertransit.copper_minecart": "铜矿车",
+  "item.hypertransit.gold_minecart": "金矿车",
+  "item.hypertransit.diamond_minecart": "钻石矿车",
+  "item.hypertransit.netherite_minecart": "下界合金矿车",
+  "entity.hypertransit.iron_boat": "铁船",
+  "entity.hypertransit.copper_boat": "铜船",
+  "entity.hypertransit.gold_boat": "金船",
+  "entity.hypertransit.diamond_boat": "钻石船",
+  "entity.hypertransit.netherite_boat": "下界合金船",
+  "entity.hypertransit.copper_minecart": "铜矿车",
+  "entity.hypertransit.gold_minecart": "金矿车",
+  "entity.hypertransit.diamond_minecart": "钻石矿车",
+  "entity.hypertransit.netherite_minecart": "下界合金矿车"
+}
