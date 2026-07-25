@@ -2,11 +2,14 @@
   "type": "minecraft:crafting_shaped",
   "pattern": [
     "X X",
-    "XXX"
+    "XBX"
   ],
   "key": {
     "X": {
       "item": "minecraft:copper_ingot"
+    },
+    "B": {
+      "item": "minecraft:minecart"
     }
   },
   "result": {
