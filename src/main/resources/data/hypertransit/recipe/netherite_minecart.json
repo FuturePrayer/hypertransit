@@ -5,15 +5,10 @@
     "XBX"
   ],
   "key": {
-    "X": {
-      "item": "minecraft:netherite_ingot"
-    },
-    "B": {
-      "item": "minecraft:minecart"
-    }
+    "X": "minecraft:netherite_ingot",
+    "B": "minecraft:minecart"
   },
   "result": {
-    "id": "hypertransit:netherite_minecart",
-    "count": 1
+    "id": "hypertransit:netherite_minecart"
   }
 }

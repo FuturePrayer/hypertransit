@@ -5,15 +5,10 @@
     "XBX"
   ],
   "key": {
-    "X": {
-      "item": "minecraft:netherite_ingot"
-    },
-    "B": {
-      "tag": "minecraft:boats"
-    }
+    "X": "minecraft:netherite_ingot",
+    "B": "#minecraft:boats"
   },
   "result": {
-    "id": "hypertransit:netherite_boat",
-    "count": 1
+    "id": "hypertransit:netherite_boat"
   }
 }

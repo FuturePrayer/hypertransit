@@ -5,15 +5,10 @@
     "XBX"
   ],
   "key": {
-    "X": {
-      "item": "minecraft:gold_ingot"
-    },
-    "B": {
-      "tag": "minecraft:boats"
-    }
+    "X": "minecraft:gold_ingot",
+    "B": "#minecraft:boats"
   },
   "result": {
-    "id": "hypertransit:gold_boat",
-    "count": 1
+    "id": "hypertransit:gold_boat"
   }
 }

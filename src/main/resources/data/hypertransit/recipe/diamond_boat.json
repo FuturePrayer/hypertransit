@@ -5,15 +5,10 @@
     "XBX"
   ],
   "key": {
-    "X": {
-      "item": "minecraft:diamond"
-    },
-    "B": {
-      "tag": "minecraft:boats"
-    }
+    "X": "minecraft:diamond",
+    "B": "#minecraft:boats"
   },
   "result": {
-    "id": "hypertransit:diamond_boat",
-    "count": 1
+    "id": "hypertransit:diamond_boat"
   }
 }

@@ -5,15 +5,10 @@
     "XBX"
   ],
   "key": {
-    "X": {
-      "item": "minecraft:copper_ingot"
-    },
-    "B": {
-      "item": "minecraft:minecart"
-    }
+    "X": "minecraft:copper_ingot",
+    "B": "minecraft:minecart"
   },
   "result": {
-    "id": "hypertransit:copper_minecart",
-    "count": 1
+    "id": "hypertransit:copper_minecart"
   }
 }

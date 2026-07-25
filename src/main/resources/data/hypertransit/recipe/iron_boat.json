@@ -5,15 +5,10 @@
     "XBX"
   ],
   "key": {
-    "X": {
-      "item": "minecraft:iron_ingot"
-    },
-    "B": {
-      "tag": "minecraft:boats"
-    }
+    "X": "minecraft:iron_ingot",
+    "B": "#minecraft:boats"
   },
   "result": {
-    "id": "hypertransit:iron_boat",
-    "count": 1
+    "id": "hypertransit:iron_boat"
   }
 }
